@@ -1,4 +1,5 @@
 module space_war::space_fighter {
+    //drop
     use sui::object::{UID, Self};
     use sui::tx_context::TxContext;
     use sui::dynamic_object_field as dof;
